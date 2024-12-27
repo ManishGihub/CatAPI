@@ -1,7 +1,7 @@
 # catAPI
 This is random cat info website build using HTML, CSS and JS<br><br>
 
-<a href="https://manishgihub.github.io/Manish-CV/">Click here to see the website</a><br><br>
+<a href="https://manishgihub.github.io/catAPI/">Click here to see the website</a><br><br>
 
 ![1](https://github.com/user-attachments/assets/d5829152-ce1b-41d1-bb0f-4b2c7d915826)
 
